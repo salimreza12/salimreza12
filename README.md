@@ -2,7 +2,6 @@
 
 ### Hi there 👋, my name is Salim Reza
 #### I am a web designer
-![I am a web designer](https://img.freepik.com/free-vector/cartoon-web-design-background_52683-70879.jpg?w=2000)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
